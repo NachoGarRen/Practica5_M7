@@ -1,0 +1,25 @@
+{
+    "radios": [
+      {
+        "frequency": "94.6",
+        "tittle": "Radio Marca",
+        "src": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL.mp3",
+        "logo": "https://scontent-mad1-1.xx.fbcdn.net/v/t39.30808-1/272907102_435573741462934_1262872443863779456_n.png?stp=dst-png_s200x200&_nc_cat=102&ccb=1-7&_nc_sid=3e9727&_nc_ohc=qDglf0v0124Q7kNvgGmhzAU&_nc_zt=24&_nc_ht=scontent-mad1-1.xx&edm=AKsJ254EAAAA&_nc_gid=AXoUWS-WK4oYvoMhiZmNfcF&oh=00_AYArtWjbFP1UMAZ3Pc1KoSy5xRBA7Bg2D1qb_D2W7TGn-Q&oe=673A7BC1",
+        "id": 1
+      },
+      {
+        "frequency": "90.5",
+        "tittle": "Los 40",
+        "src": "https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3",
+        "logo": "https://scontent-mad2-1.xx.fbcdn.net/v/t39.30808-1/357113747_738261728102454_6526979622320490474_n.jpg?stp=dst-jpg_s200x200&_nc_cat=111&ccb=1-7&_nc_sid=3e9727&_nc_ohc=n7SgepHbO_EQ7kNvgGegtRL&_nc_zt=24&_nc_ht=scontent-mad2-1.xx&edm=AKsJ254EAAAA&_nc_gid=AScmM5bWayicIdWMTdp6igr&oh=00_AYAT-L68QizY4XyK05SoOOX6IKsyBqRPFd9CVtM3CssKRA&oe=673AA8D4",
+        "id": 3
+      },
+      {
+        "frequency": "98.6",
+        "tittle": "Cadena Ser",
+        "src": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3",
+        "logo": "https://scontent-mad2-1.xx.fbcdn.net/v/t39.30808-1/339909877_2366723870161348_8754378907811474286_n.png?stp=dst-png_s200x200&_nc_cat=1&ccb=1-7&_nc_sid=3e9727&_nc_ohc=uSgdd100h5MQ7kNvgFCBOBV&_nc_zt=24&_nc_ht=scontent-mad2-1.xx&edm=AKsJ254EAAAA&_nc_gid=AK0vGRR3DZ8UJsmG_vsYGm3&oh=00_AYDSY3ILWfqDKNbuOMd1KFjcxvG5dg0X5xyvRMJVf5ReGw&oe=673A7E21",
+        "id": 4
+      }
+    ]
+  }

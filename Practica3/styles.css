@@ -1,0 +1,126 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #d3d3d3;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.header {
+    background-color: #2a6ebd;
+    color: white;
+    font-size: 2em;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.header-content {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    position: relative;
+}
+
+.jukebox-title {
+    flex-grow: 1; 
+    text-align: center;
+    margin: 0;
+    font-size: 1.5rem; 
+}
+
+.logout-link {
+    position: absolute;
+    right: 30px;
+    font-size: 1rem;
+    color: white;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.logout-link:hover {
+    background-color: #e0e0e0;
+    color: #333;
+}
+
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    width: 80%;
+}
+
+.container img{
+    width: 200px;
+    height: 200px;
+}
+.player, .playlist, .radio, .settings {
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.player {
+    background-color: #ff9ca9;
+    text-align: center;
+}
+
+.controls button {
+    font-size: 1.5em;
+    margin: 5px;
+}
+
+.playlist {
+    background-color: #88a4ff;
+}
+
+.radio {
+    background-color: #fffd88;
+}
+
+.settings {
+    background-color: #88ff9c;
+}
+
+.footer {
+    background-color: #ff5cf7;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+    margin-top: 10px;
+}
+
+
+select {
+    background-color: #f0f8ff; 
+    border: 1px solid #007bff; 
+    border-radius: 5px; 
+    color: #333;
+    font-size: 16px;
+    padding: 10px; 
+    appearance: none; 
+    cursor: pointer; 
+    transition: background-color 0.3s ease, border-color 0.3s ease; 
+}
+
+select:hover {
+    background-color: #c9e2fa; 
+    border-color: #0056b3;
+}
+
+select:focus {
+    outline: none; 
+    border-color: #0056b3; 
+}
