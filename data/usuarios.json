@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nombre": "Nacho",
+        "correo": "nacho@gmail.com",
+        "password": "$2b$12$D7JDSwI\/7qX40AEAYiq47eUPygQP2qbnXyKTPWg3CtaU6PAWUT4HK",
+        "rol": "admin"
+    },
+    {
+        "id": 2,
+        "nombre": "Xavi",
+        "correo": "xavi@gmail.com",
+        "rol": "admin",
+        "password": "$2y$10$sKL14.WfijGZIe0tko\/8Ved8tm4xDmRNKXp2MBAg86Kxek6P4e\/b."
+    },
+    {
+        "id": 3,
+        "nombre": "Manolo",
+        "correo": "manolo@gmail.com",
+        "rol": "normal",
+        "password": "$2y$10$hDY4dcG1sOqVujXgi9D\/w.UN1pTE7bBid\/q2YI6NcG97ABRd6HaIq"
+    },
+    {
+        "id": 4,
+        "nombre": "Carlos",
+        "correo": "carlos@gmail.com",
+        "rol": "normal",
+        "password": "$2y$10$ZRRs.N1NQhP2Duz8JexBpOl1z8\/IC.FeIdPsTet\/2ZQ331LoIwVmS"
+    }
+]
